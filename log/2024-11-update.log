@@ -38,3 +38,4 @@
 [2024-11-19 20:09:59] [WARN] 获取 v2ray 订阅失败：https://fs.v2rayse.com/share/20241119/hawa53i0bq.txt - 500
 [2024-11-19 20:09:59] [WARN] 获取 clash 订阅失败：https://fs.v2rayse.com/share/20241119/s6awk39rty.yaml - 500
 [2024-11-19 20:09:59] [WARN] 未能获取新的更新内容
+[2024-11-20 08:25:15] [INFO] 更新成功：['v2ray: 200', 'clash: 200']
